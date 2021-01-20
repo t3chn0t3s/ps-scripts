@@ -1,2 +1,2 @@
 # ps-scripts
-Repo for various powershell scripts I use for regular tasks
+Repo for various powershell scripts I use for common tasks.
